@@ -1,0 +1,33 @@
+[
+    {
+        "predicted_class": "real",
+        "confidence": 0.7160153388977051,
+        "fake_probability": 0.28398463129997253,
+        "real_probability": 0.7160153388977051,
+        "is_fake": false,
+        "class_probabilities": {
+            "fake": 0.28398463129997253,
+            "real": 0.7160153388977051
+        },
+        "image_path": "data/fake/0A0IAK9X2W.jpg",
+        "feature_analysis": {
+            "image_dimensions": [
+                256,
+                256
+            ],
+            "mean_color_rgb": [
+                147.31454467773438,
+                121.6673583984375,
+                88.51206970214844
+            ],
+            "color_std_rgb": [
+                45.25740049363774,
+                41.250044465582896,
+                46.97930882152958
+            ],
+            "edge_density": 0.15838623046875,
+            "noise_level": 42.10351672540619,
+            "blur_level": 1154.282469628146
+        }
+    }
+]

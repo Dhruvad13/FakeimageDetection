@@ -1,0 +1,24 @@
+{
+    "model_type": "cnn",
+    "timestamp": "20250707_234303",
+    "model_path": "models/saved_models\\cnn_fake_detection_20250707_234303.h5",
+    "training_params": {
+        "epochs": 2,
+        "batch_size": 32,
+        "learning_rate": 0.001,
+        "img_size": 128
+    },
+    "results": {
+        "test_accuracy": 0.4959999918937683,
+        "test_precision": 0.4959999918937683,
+        "test_recall": 0.4959999918937683,
+        "test_loss": 0.78079754114151
+    },
+    "data_info": {
+        "num_classes": 2,
+        "class_names": [
+            "real",
+            "fake"
+        ]
+    }
+}
